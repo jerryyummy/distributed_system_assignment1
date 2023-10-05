@@ -19,9 +19,9 @@ public class ThreadGroupTest2 {
         int threadGroupSize = input.nextInt();
         int numThreadGroups = input.nextInt();
         int delaySeconds = input.nextInt();
-        String IPAddr = "http://54.80.72.233:8082/AlbumStore/albums";
+        String IPAddr = "http://54.80.72.233:8080/assignment1_war/AlbumStore/albums";
         Client client = new Client(IPAddr);
-        FileWriter fileWriter = new FileWriter("/Users/youyun/Documents/java project/client/src/main/resources/go3.csv");
+        FileWriter fileWriter = new FileWriter("/Users/youyun/Documents/java project/client/src/main/resources/java3.csv");
         CSVWriter csvWriter = new CSVWriter(fileWriter);
 
         long startTime = System.currentTimeMillis();

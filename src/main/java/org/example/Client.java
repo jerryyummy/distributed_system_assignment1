@@ -20,7 +20,7 @@ public class Client {
 
     public boolean get() throws Exception{
         CloseableHttpClient httpclient = HttpClients.createDefault();
-        HttpGet httpget = new HttpGet(IPAddr+"//11");
+        HttpGet httpget = new HttpGet(IPAddr);
         try (CloseableHttpResponse response = httpclient.execute(httpget)) {
             HttpEntity entity = response.getEntity();
             String result = EntityUtils.toString(entity);
