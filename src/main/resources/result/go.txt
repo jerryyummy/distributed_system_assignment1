@@ -1,0 +1,68 @@
+group2: 286109 ms
+group5: 280138 ms
+group8: 274128 ms
+group3: 284155 ms
+group4: 282153 ms
+group7: 276143 ms
+group9: 272136 ms
+group6: 278151 ms
+group1: 288179 ms
+group10: 270136 ms
+thread group run all time: 288182 ms
+throughput: 69.4005871289671
+
+group2: 466948 ms
+group7: 456948 ms
+group3: 465896 ms
+group6: 463850 ms
+group8: 459982 ms
+group1: 478278 ms
+group5: 470602 ms
+group10: 465883 ms
+group12: 465844 ms
+group9: 472050 ms
+group4: 482691 ms
+group13: 465733 ms
+group17: 462890 ms
+group14: 470604 ms
+group11: 483346 ms
+group20: 467425 ms
+group15: 478078 ms
+group18: 472308 ms
+group19: 479280 ms
+group16: 486204 ms
+thread group run all time: 516278 ms
+throughput: 77.47763801672743
+
+group5: 578369 ms
+group4: 580478 ms
+group2: 585476 ms
+group12: 567359 ms
+group3: 585446 ms
+group10: 574874 ms
+group14: 567105 ms
+group1: 593736 ms
+group7: 588930 ms
+group6: 592747 ms
+group8: 589718 ms
+group9: 587915 ms
+group15: 578252 ms
+group20: 572818 ms
+group16: 582103 ms
+group26: 562416 ms
+group17: 582136 ms
+group19: 579520 ms
+group28: 562014 ms
+group18: 582998 ms
+group24: 570969 ms
+group22: 575001 ms
+group23: 572992 ms
+group11: 597068 ms
+group21: 577050 ms
+group29: 561055 ms
+group27: 565072 ms
+group13: 593161 ms
+group25: 569103 ms
+group30: 559088 ms
+thread group run all time: 617275 ms
+throughput: 97.2014094204366
