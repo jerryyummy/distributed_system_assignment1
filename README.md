@@ -1,2 +1,2 @@
-# distributed_ssyystem_assignment1
+# distributed_system_assignment1
 assignment1
